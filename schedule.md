@@ -3,43 +3,25 @@ layout: post
 title: Schedule
 ---
 
-### Week 0 | Wednesday, August 31
+### Week 0 | Jan 17-19
 
 #### Inaugural Lecture by Prof. Alex Gil
 
-### Week 1
+#### Introduction to Studio
 
-#### Everything, Everywhere, All At Once: The (Digital) Cultural Record
+### Week 1 | Jan 24-26
 
-☛ Because of Labor Day, Studio and Seminar will be in reverse order this "week." Studio will be on Friday, September 2, and our first seminar will be on Wednesday, September 7.
+##### Seminar 
 
-##### Studio | Friday, September 2
-
-- Who are we?
-- Collecting our thoughts and instruments
-- Tutorial: hypothes.is
-
-##### Seminar | Wednesday, September 7
-
-- Borges, Jorge Luis. "[The Congress](https://posthegemony.files.wordpress.com/2013/02/borges_collected-fictions.pdf)"; "[El Aleph](https://posthegemony.files.wordpress.com/2013/02/borges_collected-fictions.pdf)."
-- Burdick, Anne, et al. [*Digital_Humanities*](https://direct.mit.edu/books/book/5346/Digital-Humanities). MIT Press, 2012.
-- Risam, Roopika. "[Introduction: The Postcolonial Digital Cultural Record](https://muse.jhu.edu/chapter/2230421/pdf)." *New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy*. Northwestern University Press, 2018.
-- [Reviews in DH](https://reviewsindh.pubpub.org/). Edited by Jennifer Guiliano and Roopika Risam. Vol. 3. 2022.
-
-<!-- Lessons learned:
-
-a) Start with an exercise: Have students build the Global Library of All Things
-b) Consider Borges' the Garden of Forking Paths
-
- -->
+##### Studio 
 
 
 
-### Week 2
+### Week 2 | Jan 31 - Feb 2
 
 #### Letters: Surface and Depth, WYSIWYG... or not.
 
-##### Seminar | Monday, September 12
+##### Seminar 
 
 -   Best, Stephen, and Sharon Marcus. "[Surface Reading: An
     Introduction.](http://www.jstor.org/stable/10.1525/rep.2009.108.1.1)"
@@ -51,7 +33,7 @@ b) Consider Borges' the Garden of Forking Paths
 
 ☛ Look over at leisure: [Unicode 1.0.0](http://www.unicode.org/versions/Unicode1.0.0/)
 
-##### Studio | Wednesday, September 14
+##### Studio 
 
 - What is Plain Text?
 - Tutorial: [Microsoft Visual Studio Code](https://code.visualstudio.com/)  (Please install before class)
@@ -60,11 +42,11 @@ b) Consider Borges' the Garden of Forking Paths
 
 
 
-### Week 3
+### Week 3 | Feb 7 - 9
 
 #### Documents: Files, Types and Cabinets
 
-##### Seminar | Monday, September 19
+##### Seminar 
 
 -   Bush, Vannevar. "[As We May Think](https://via.hypothes.is/https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)." *The Atlantic*, July 1945. [Link connects to hypothes.is]
 -   Tagg, John. "[The Archiving Machine; Or, The Camera and the Filing
@@ -81,32 +63,32 @@ b) Consider Borges' the Garden of Forking Paths
 
 ☛ Examine: Your file system and storage
 
-##### Studio | Wednesday, September 21
+##### Studio 
 
 - Tutorial: Terminal basics
 - Tutorial: [Pandoc](https://pandoc.org/installing.html) (Please install before class)
 
-### Week 4
+### Week 4 | Feb 14 - 16
 
 #### Editions: The Point is to Change It 
 
-##### Seminar | Monday, September 26
+##### Seminar 
 
 -   Sahle, Patrick. "What Is a Scholarly Digital Edition?" *[Digital Scholarly Editing : Theories and Practices](http://books.openedition.org/obp/3397)*, edited by Matthew James Driscoll and Elena Pierazzo, Open Book Publishers, 2017, pp. 19--39.
 -   McGann, Jerome. "[Introduction]({{site.baseurl}}/assets/docs/mcgann-radiant-intro.pdf)." *Radiant Textuality: Literary Studies after the World Wide Web*. 1st edition, Palgrave Macmillan, 2001.
 
 ☛ Examine: [The Shelley-Godwin Archive](http://shelleygodwinarchive.org/); [The Rosetti Archive](http://www.rossettiarchive.org/)
 
-##### Studio | Wednesday, September 28 
+##### Studio 
 
 - Tutorial: Ed
 - Tutorial: Markdown
 
-### Week 5
+### Week 5 | Feb 21 - 23
 
 #### Bibliographies: Search Results, Works Cited, Syllabi, Catalogues, Shout-outs and If You Liked This Maybe You will Like That 
 
-##### Seminar | Monday, October 3
+##### Seminar
 
 
 - Ahmed, Sara. "[Introduction: Bringing Feminist Theory Home](https://watermark-silverchair-com.yale.idm.oclc.org/9780822373377-001.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAuEwggLdBgkqhkiG9w0BBwagggLOMIICygIBADCCAsMGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMFQnr65uSNSzGwVTJAgEQgIIClHSHvj7VT7y5mYKZqvbno6ReaNV3cXP6S5DvbhuP0UAmvWL4vzxtHzcdsRBIWqPooyJnuj4-4DenbPVtxI9F164RTSKtVT_J5TpMiRB1vk23bmrUyPnUNtzbs9p_mISmFu3K4SPWDzhZ5L0UiZMSEO8FDE4UCCvCPUZ_UbzrCiclpdkzzErw4QzEzN9KWG_No7cctPYq9N0DuYnxta9hc8LnfNM8z4i0DTz32hQy7cPVNMLeWlPRtSaKwrmaF2DK5dJgGg1yl5sWjTOO9LLlPB5CtRM_qbdVrlKFZkom7yr2FRNBvU61PcSPJrdRCef975l1DaNi0_0YR6nxKh1RwMvir-5kv8MkWJtkmaiSfoBDThstnD_SUVmoU-ODHuCsELHo-A1ZGOvRY5eYqTMkTcjTWxrz-3Q_dIy-WfU7biZchAoR9SdLvM8toGoRpw81ZeMsg_jovpEtNVie5tjW3lvnhYOVpuYeUc7Nup8Sp4CAofRaZoHR-LbSpaqZPeduTZpS55n8yltpHFvI_6Vh_gSe-sT8-xfGffYFhio9VNA1IPUtZ0TyG7g44JIDcCRDNbnlFXVhjTRDcKNx6nmTBIY3NtZI6hm2LFWiqHjFhn9-MGpmRlc4XeVkMhwiwa3Ikp4tVi5AGk3g-h7FjWzcxPUazXKsDaPtvNpjX1yPT0aaH3R5rY-AUO1oHGm79Rz7lztyixUpW6Tv-IE9tVPR6oHJaBuJcUfW2VLC4YCibxvABuVQNLndFgxxi5NlBko2ZJxJZbR5j0L0CLc34BIo6tOVl6zjYn8kuGeefmD7eszu9d_JQ0h5JMRN_J7zXzr3IsCORSnAQVGlzPJqOJ1IVafFZtYYXsFe_QS_w9dWqgrTkrZ2cA)." *Living a Feminist Life*. Durham: Duke University Press, 2017. [Yale Library access]
@@ -116,16 +98,16 @@ b) Consider Borges' the Garden of Forking Paths
 
 ☛ Examine: [The Open Syllabus Project](https://opensyllabus.org/); Goldsby, Jacqueline, and Meredith L. McGill. "[Black Bibliography Project](https://blackbibliog.org/)." 
 
-##### Studio | Wednesday, October 5  
+##### Studio 
 
 - Ed continued
 - Zotero
 
-### Week 6
+### Week 6 | Feb 28 - March 2
 
 #### Data: Given and Taken, Where the Wild Things Are.
 
-##### Seminar | Monday, October 10
+##### Seminar 
 
 -   D'Ignazio, Catherine, and Lauren F. Klein. *Data Feminism*. MIT
     Press, 2020. Selections.
@@ -138,16 +120,16 @@ b) Consider Borges' the Garden of Forking Paths
 
 ☛ Examine: [The Viral Texts Project](https://viraltexts.org/); [(Un)Silencing Slavery](https://unsilencing-slavery.org/credits)
 
-##### Studio | Wednesday, October 12
+##### Studio 
 
 - CSVs
 - YAML
 
-### Week 7
+### Week 7 | Mar 7 - 9
 
 #### Libraries: Exhibits, Archives, Collections, Databases
 
-##### Seminar | Monday, October 17
+##### Seminar 
 
 -   Hartman, Saidiya. "Venus in Two Acts." *Small Axe*, vol. 12, no. 2,
     2008, pp. 1--14.
@@ -161,25 +143,26 @@ b) Consider Borges' the Garden of Forking Paths
 
 ☛ Examine: [La Gazette Royale d'Haïti](http://lagazetteroyale.com/); [Colored Conventions Project](https://coloredconventions.org/)
 
+### Spring Break
 
-### Week 8
+### Week 8 | Mar 28 - 30
 
 #### Breathe
 
-##### Midterm Chat | Monday, October 24
+##### Midterm Chat
 
 - Project evaluations due.
 
-##### Studio | Wednesday, October 26
+##### Studio
 
 - Tutorial: Wax I
 - Project brainstorm
 
-### Week 9
+### Week 9 | Apr 4 - 6
 
 #### Poesis: Digital Storytelling, Electronic Literature
 
-##### Seminar | Monday, October 31
+##### Seminar 
 
 -   Borges, Jorge Luis. "[The Library of Babel](https://sites.evergreen.edu/politicalshakespeares/wp-content/uploads/sites/226/2015/12/Borges-The-Library-of-Babel.pdf)" (1941); "[Tlön, Uqbar, Orbis Tertius](https://sites.evergreen.edu/politicalshakespeares/wp-content/uploads/sites/226/2015/12/Borges-Tl%C3%B6n-Uqbar-Orbius-Tertius.pdf)" (1940)
 -   Basile, Jonathan. "[The Library of Babel](https://libraryofbabel.info/)" (2015)
@@ -191,16 +174,16 @@ b) Consider Borges' the Garden of Forking Paths
 
 ☛ Examine: [The Electronic Literature Collection](https://collection.eliterature.org/)
 
-##### Studio | Wednesday, November 2
+##### Studio 
 
 - Tutorial: Wax II
 - Project planning
 
-### Week 10
+### Week 10 | Apr 11 - 13
 
 #### Artifice: Ceci n'est pas an archive.
 
-##### Seminar | Monday, November 7
+##### Seminar 
 
 -   Brouillette, Sarah. *UNESCO and the Fate of the Literary*. Stanford
     University Press, 2019. Selections.
@@ -216,16 +199,16 @@ b) Consider Borges' the Garden of Forking Paths
 
 ☛ Examine: The material world around you. I know, I know. Just look at it again, please.
 
-##### Studio | Wednesday, November 9
+##### Studio 
 
 - CSS
 - Social Media
 
-### Week 11
+### Week 11 | Apr 18 - 20
 
 #### Craft: Collaboration, Divisions of Labor, Project Management
 
-##### Seminar | Monday, November 14
+##### Seminar 
 
 -   Smith, Adam, and Andrew Skinner. *The Wealth of Nations*. 1st
     edition, Penguin Classics, 1982. Selections from Book 1.
@@ -240,15 +223,15 @@ b) Consider Borges' the Garden of Forking Paths
 
 ☛ Examine: [The Praxis Network](http://praxis-network.org/)
 
-##### Studio | Wednesday, November 16 
+##### Studio
 
 - Github
 
-### Week 12
+### Week 12 | Apr 25 - 27
 
 #### Machines: Minimal Computing, Computing a little
 
-##### Seminar | Monday, November 28
+##### Seminar
 
 -   Nowviskie, Bethany. "Digital Humanities in the Anthropocene."
     Digital Scholarship in the Humanities, vol. 30, no. 1, Dec. 2015,
@@ -262,33 +245,11 @@ b) Consider Borges' the Garden of Forking Paths
 
 ☛ Examine: A replica of the Turing machine
 
-##### Studio | Wednesday, December 1 
+##### Studio 
  
  - A very gentle introduction to algorithmic thinking and practice with Python
 
-### Week 13
-
-#### Exeunt to the World: Workers of the record, unite!
-
-##### Seminar | Monday, December 5
-
--   [The Nimble Tents Toolkit](https://nimbletents.github.io/)
--   Sá Pereira, Moacir P. de. "[Representation Matters](http://xpmethod.columbia.edu/torn-apart/reflections/moacir_p\_de_sa_pereira_2.html)." *Torn
-    Apart/Separados*. June 2018. xpmethod.columbia.edu.
-- [pirate.care.syllabus▒▒▒🐙](https://syllabus.pirate.care/)
-
-☛ Examine: [Torn Apart/Separados](https://xpmethod.columbia.edu/torn-apart/volume/1/), [SUCHO](https://www.sucho.org/)
-
-##### Studio | Wednesday, December 7
-
-- Google maps
-
-### The Final Week
-
-#### Curtains: Nerves, Celebration and Joy
-
-[Location TBD]
-
 On the final week we will simply celebrate each other's works and
-camaraderie. Stay tuned for next semester's *Introduction to Digital
-Humanities II: Algorithmic Approaches to Corpora*. 
+camaraderie. 
+
+
