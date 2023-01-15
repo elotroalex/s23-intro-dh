@@ -7,51 +7,64 @@ title: Schedule
 
 #### Inaugural Lecture by Prof. Alex Gil
 
-#### Overview of the course and introductions.
+#### Overview of the course and introductions
 
 
 ### Week 1 | Jan 24-26
 
-#### The Critique of Computational Approaches
+#### The Long Arc of Counting Words
 
-##### Seminar 
+##### Seminar
 
-- 
+- Heffernan, Rachel Sagner Buurma and Laura. “Search and Replace: Josephine Miles and the Origins of Distant Reading.” Modernism/Modernity Print Plus, Apr. 2018. modernismmodernity.org, https://modernismmodernity.org/forums/posts/search-and-replace.
+-  *Computers for the Humanities? A Record of the Conference Sponsored by Yale University on a Grant from IBM*, January 22-23, 1965 (Yale Libraries call number: QA76 C644 1965. Available as Non-Circ at the Franke Family Digital Humanities Lab. Good excuse to go say hi, learn more about the venue.)
+- Terras, Melissa and Julianne Nyhan. "[Father Busa’s Female Punch Card Operatives](https://dhdebates.gc.cuny.edu/read/untitled/section/1e57217b-f262-4f25-806b-4fcf1548beb5)." *Debates in the Digital Humanities 2016*, 2016
 
-##### Studio 
+##### Studio
 
+- What is an algorithm? What is computation?
+- Counting words today
 
 
 ### Week 2 | Jan 31 - Feb 2
 
-#### [Title]
+#### Recent Debates
 
-##### Seminar 
+##### Seminar: Nan Z. Da v. Cultural Analytics
 
-##### Studio 
+- Da, Nan Z. “The Computational Case against Computational Literary Studies.” Critical Inquiry, vol. 45, no. 3, Mar. 2019, pp. 601–39. journals.uchicago.edu (Atypon), https://doi.org/10.1086/702594.
+- Read the short responses to Da in "[Computational Literary Studies: A Critical Inquiry Online Forum](https://critinq.wordpress.com/2019/03/31/computational-literary-studies-a-critical-inquiry-online-forum/)"
+
+##### Studio
+
+- How to read tutorials
 
 
 ### Week 3 | Feb 7 - 9
 
-#### [Title]
+#### Shoring Fragments From the Ruins of Culture
 
 ##### Seminar 
 
 ##### Studio 
+
+- Retrieving words from one place and putting them in another place, the rudiments.
 
 
 ### Week 4 | Feb 14 - 16
 
-#### [Title]
+#### The Signatures of Writing (Guest Lecture)
 
 ##### Seminar 
 
 ##### Studio 
 
+- Stylistics
+
 
 ### Week 5 | Feb 21 - 23
 
-#### [Title]
+#### Networks
 
 ##### Seminar 
 
@@ -60,7 +73,7 @@ title: Schedule
 
 ### Week 6 | Feb 28 - March 2
 
-#### [Title]
+#### Sound and Image
 
 ##### Seminar 
 
@@ -70,7 +83,7 @@ title: Schedule
 
 ### Week 7 | Mar 7 - 9
 
-#### [Title]
+#### Visualizations
 
 ##### Seminar 
 
