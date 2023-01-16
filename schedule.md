@@ -21,14 +21,12 @@ title: Schedule
 
 - Miles, Josephine. *Poetry and Change: Donne, Milton, Wordsworth, and the Equilibrium of the Present*. University of California Press, 1974. (Introduction. Chapter 1–3) [PR502 M56]
 - Heffernan, Rachel Sagner Buurma and Laura. “[Search and Replace: Josephine Miles and the Origins of Distant Reading](https://modernismmodernity.org/forums/posts/search-and-replace).” *Modernism/Modernity*, Apr. 2018. modernismmodernity.org.
-- Schreibman, Susan, et al. A Companion to Digital Humanities. Wiley, 2004.
-- Busa, Roberto. “[The Annals of Humanities Computing: The Index Thomisticus](https://www-jstor-org.yale.idm.oclc.org/stable/30207304?searchText=index+thomisticus&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dindex%2Bthomisticus&ab_segments=0%2FSYC-6744_basic_search%2Ftest-1&refreqid=fastly-default%3A749eaefd3df21f3728ace22e5d0e675f&seq=1).” *Computers and the Humanities*, vol. 14, no. 2, 1980, pp. 83–90.
-- Terras, Melissa and Julianne Nyhan. "[Father Busa’s Female Punch Card Operatives](https://dhdebates.gc.cuny.edu/read/untitled/section/1e57217b-f262-4f25-806b-4fcf1548beb5)." *Debates in the Digital Humanities 2016*, 2016
+- Schreibman, Susan, et al. A Companion to Digital Humanities. Wiley, 2004. [Chapter on the history of humanities computing]
+
 
 ##### Studio
 
-- Let's count words with Voyant
-
+- Let's count words then!
 
 
 ### Week 2 | Jan 31 - Feb 2
@@ -37,37 +35,39 @@ title: Schedule
 
 ##### Seminar: Nan Z. Da v. Cultural Analytics
 
-- *Computers for the Humanities? A Record of the Conference Sponsored by Yale University on a Grant from IBM*, January 22-23, 1965 (Yale Libraries call number: QA76 C644 1965. Available as Non-Circ at the Franke Family Digital Humanities Lab. Good excuse to go say hi, learn more about the venue.)
+- *Computers for the Humanities? A Record of the Conference Sponsored by Yale University on a Grant from IBM*, January 22-23, 1965 (Yale Libraries call number: QA76 C644 1965. Available as Non-Circ at the Franke Family Digital Humanities Lab. Good excuse to go say hi, learn more about the venue)
 - Da, Nan Z. “The Computational Case against Computational Literary Studies.” Critical Inquiry, vol. 45, no. 3, Mar. 2019, pp. 601–39. journals.uchicago.edu (Atypon), https://doi.org/10.1086/702594.
 - Read the short responses to Da in "[Computational Literary Studies: A Critical Inquiry Online Forum](https://critinq.wordpress.com/2019/03/31/computational-literary-studies-a-critical-inquiry-online-forum/)"
 
 ##### Studio
 
-- Counting words today
+- Where to find and how to read cultural analytics prose
 
 ### Week 3 | Feb 7 - 9
 
-#### Shoring Fragments From the Ruins of Culture
+#### Where Words Have Been 
 
-- 
+- Sharma, Rama Nath, and Pāṇini. The Aṣṭādhyāyī of Pāṇini. Munshiram Manoharlal Publishers, 1987. [Selections]
+- Readings in Natural Language Processing from DHQ, etc.
+
 
 ##### Seminar 
 
 ##### Studio 
 
-- How to read tutorials
-- Retrieving words from one place and putting them in another place, the rudiments.
+- How to read tutorials: "[Corpus Analysis with Antconc](http://programminghistorian.org/en/lessons/corpus-analysis-with-antconc)" by Heather Froehlich
+
 
 
 ### Week 4 | Feb 14 - 16
 
-#### The Signatures of Writing (Guest Lecture)
+#### The Theory of Digital Humanities
+
+- Kleymann, Rabea, et al. “Conceptual Forays: A Corpus-Based Study of ‘Theory’ in Digital Humanities Journals.” Journal of Cultural Analytics, vol. 7, no. 4, Dec. 2022. culturalanalytics.org, https://doi.org/10.22148/001c.55507. https://culturalanalytics.org/article/55507-conceptual-forays-a-corpus-based-study-of-theory-in-digital-humanities-journals
 
 ##### Seminar 
 
 ##### Studio 
-
-- Stylistics
 
 
 ### Week 5 | Feb 21 - 23
@@ -126,13 +126,16 @@ title: Schedule
 
 ### Week 9 | Apr 4 - 6
 
-#### The Theory of Digital Humanities
+#### The Signatures of Writing
 
-- Kleymann, Rabea, et al. “Conceptual Forays: A Corpus-Based Study of ‘Theory’ in Digital Humanities Journals.” Journal of Cultural Analytics, vol. 7, no. 4, Dec. 2022. culturalanalytics.org, https://doi.org/10.22148/001c.55507. https://culturalanalytics.org/article/55507-conceptual-forays-a-corpus-based-study-of-theory-in-digital-humanities-journals
-
-##### Seminar 
+##### Guest Lecture by Michał Choiński and Maciej Eder 
+To accommodate our guests, this class will meet on Zoom.
 
 ##### Studio 
+
+- Introduction to Stylo
+
+
 
 
 ### Week 10 | Apr 11 - 13
@@ -168,3 +171,9 @@ https://nowviskie.org/2018/reconstitute-the-world/
 ##### In Sum
 
 ##### Celebrate The Work and Each Other
+
+
+Historical:
+
+- Turing, Alan M. “Computing Machinery and Intelligence. Mind, 59, 433–460.” Mind, no. 59, 1950, pp. 433–60, https://doi.org/10.1093/mind/LIX.236.433.
+- Raymond Lull
