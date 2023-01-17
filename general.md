@@ -21,7 +21,7 @@ Wednesdays, 1:30PM--3:20PM
 [Prof. Alex Gil](http://www.elotroalex.com/profiles/)  
 Office: Humanities Quadrangle, Room 439   
 In Person Office Hours: Mondays, 1:30pm--3:30PM.    
-For asynchronous help, please join our course Yale X-DH [Slack]() sub-channel.   
+For asynchronous help, please join our course Yale X-DH [Slack channel](https://yaledigitalhu-ba25141.slack.com/archives/C04K4342LUW).   
 e-mail: alex.gil@yale.edu
 
 
@@ -36,14 +36,14 @@ An interest in questions of art, history, law, culture, philology and philosophy
 
 ### Course Materials
 
-All readings in this course will be provided *free to you*. With a few exceptions, you fill find the appropriate links for all course materials in [the course schedule](/schedule.html).
+All readings in this course will be provided *free to you*. With a few exceptions, you will find the appropriate links for all course materials in [the course schedule](/schedule.html).
 
 ### Assessment and Grading
 
-- 25% Class & Online Participation
-- 25% Midterm Exam (Before Spring Break)
-- 25% Paired Project
-- 25% Final Conference Presentation
+- 10% Paper Annotation Exercise
+- 30% Class Participation
+- 30% Midterm Exam 
+- 30% Final Paper
 
 To learn more, please visit the [assignments page]({{"/assignments.html" | relative_url}}).
 

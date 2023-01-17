@@ -63,6 +63,7 @@ title: Schedule
 
 **watch**
 - [WordSeer Features](https://www.youtube.com/watch?v=fMyTkCsZcLU)
+- de Sá Pereira, Moacir P. "[Mapping Fabula and Sjužet in 'Wandering Rocks'](https://muziejus.github.io/wandering-rocks/)."
 
 **task**
 - Working in pairs, pick a contemporary article of thematic interest to both of you engaging with text or corpus analysis from [*Digital Humanities Quarterly*](http://www.digitalhumanities.org/dhq/) or the "[*Journal of Cultural Analytics*](https://culturalanalytics.org/)". Read it online. As you read it, highlight the concepts you don't understand in the article using [hypothes.is](https://via.hypothes.is/). If you see a concept that you think you can explain to your partner, write a comment, start a dialogue.
@@ -132,6 +133,7 @@ title: Schedule
 **explore**
 - [Photogrammar](https://photogrammar.org/maps)
 
+
 ##### Studio 
 
 - Re-introducing colored pencils
@@ -145,6 +147,9 @@ title: Schedule
 - Klein, Lauren F. “The Image of Absence: Archival Silence, Data Visualization, and James Hemings.” American Literature, vol. 85, no. 4, Dec. 2013, pp. 661–88. Silverchair, https://doi.org/10.1215/00029831-2367310.
 - Hartman, Saidiya. “Venus in Two Acts.” *Small Axe*, no. 26 (June 2008).
 - Johnson, Jessica Marie. “Xroads Praxis: Black Diasporic Technologies for Remaking the New World.” *archipelagos journal*, no. 3 (July 2019). https://doi.org/10.7916/archipelagos-4fjd-k774.
+
+**explore**
+- Celia E. Naylor, Alex Gil, Moacir P. de Sá Pereira, et al. "[(Un)Silencing Slavery](https://unsilencing-slavery.org/)."
 
 
 ##### Midterm Exam 
