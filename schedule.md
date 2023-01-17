@@ -5,15 +5,13 @@ title: Schedule
 
 ### Week 0 | Jan 17-19
 
-#### Inaugural Lecture by Prof. Alex Gil
-
 #### Overview of the course and introductions
 
 <br>
 
 ### | ANALYSIS |
 
-### Week 1 | Jan 24-26
+### Week 1 | Jan 24--26
 
 #### The Long Arc of Counting Words
 
@@ -31,7 +29,7 @@ title: Schedule
 - Let's count words then!
 
 
-### Week 2 | Jan 31 - Feb 2
+### Week 2 | Jan 31--Feb 2
 
 #### The Agon of Cultural Analytics
 
@@ -39,7 +37,7 @@ title: Schedule
 
 **read**
 - *Computers for the Humanities? A Record of the Conference Sponsored by Yale University on a Grant from IBM*, January 22-23, 1965 (Yale Libraries call number: Available as Non-Circ at the Franke Family Digital Humanities Lab (QA76 C644 1965). Good excuse to go say hi, learn more about the venue)
-- Da, Nan Z. “The Computational Case against Computational Literary Studies.” Critical Inquiry, vol. 45, no. 3, Mar. 2019, pp. 601–39. journals.uchicago.edu (Atypon), https://doi.org/10.1086/702594.
+- Da, Nan Z. “[The Computational Case against Computational Literary Studies](https://doi.org/10.1086/702594).” Critical Inquiry, vol. 45, no. 3, Mar. 2019, pp. 601–39. journals.uchicago.edu.
 - Read the short responses to Da in "[Computational Literary Studies: A Critical Inquiry Online Forum](https://critinq.wordpress.com/2019/03/31/computational-literary-studies-a-critical-inquiry-online-forum/)"
 
 ##### Studio
@@ -51,7 +49,7 @@ title: Schedule
 - Algee-Hewitt, Mark, Katherine Bowers, Quinn Dombrowski, and Heather Froehlich. "Data Sitters Club #10: Heather Likes Principal Component Analysis."
 
 
-### Week 3 | Feb 7 - 9
+### Week 3 | Feb 7--9
 
 #### Oh, The Places Words Will Go 
 
@@ -63,7 +61,7 @@ title: Schedule
 
 **watch**
 - [WordSeer Features](https://www.youtube.com/watch?v=fMyTkCsZcLU)
-- de Sá Pereira, Moacir P. "[Mapping Fabula and Sjužet in 'Wandering Rocks'](https://muziejus.github.io/wandering-rocks/)."
+- Sá Pereira, Moacir P. de. "[Mapping Fabula and Sjužet in 'Wandering Rocks'](https://muziejus.github.io/wandering-rocks/)."
 
 **task**
 - Working in pairs, pick a contemporary article of thematic interest to both of you engaging with text or corpus analysis from [*Digital Humanities Quarterly*](http://www.digitalhumanities.org/dhq/) or the "[*Journal of Cultural Analytics*](https://culturalanalytics.org/)". Read it online. As you read it, highlight the concepts you don't understand in the article using [hypothes.is](https://via.hypothes.is/). If you see a concept that you think you can explain to your partner, write a comment, start a dialogue.
@@ -78,7 +76,7 @@ title: Schedule
 
 
 
-### Week 4 | Feb 14 - 16
+### Week 4 | Feb 14--16
 
 #### The Social Life of Everything, Everyone and Everywhen
 
@@ -99,7 +97,7 @@ title: Schedule
 
 ### | POESIS |
 
-### Week 5 | Feb 21 - 23
+### Week 5 | Feb 21--23
 
 #### The Electric Loom
 
@@ -119,7 +117,7 @@ title: Schedule
 - Let's build a simple word machine
 
 
-### Week 6 | Feb 28 - March 2
+### Week 6 | Feb 28--March 2
 
 #### The Back and Forth Between Pictura and Poesis, oh, and Sound.
 
@@ -138,7 +136,7 @@ title: Schedule
 
 - Re-introducing colored pencils
 
-### Week 7 | Mar 7 - 9
+### Week 7 | Mar 7--9
 
 #### The Image of Absence
 
@@ -149,7 +147,7 @@ title: Schedule
 - Johnson, Jessica Marie. “Xroads Praxis: Black Diasporic Technologies for Remaking the New World.” *archipelagos journal*, no. 3 (July 2019). https://doi.org/10.7916/archipelagos-4fjd-k774.
 
 **explore**
-- Celia E. Naylor, Alex Gil, Moacir P. de Sá Pereira, et al. "[(Un)Silencing Slavery](https://unsilencing-slavery.org/)."
+- Naylor, Celia E., Alex Gil, Moacir P. de Sá Pereira, et al. "[(Un)Silencing Slavery](https://unsilencing-slavery.org/)."
 
 
 ##### Midterm Exam 
@@ -161,7 +159,7 @@ title: Schedule
 ---
 
 
-### Week 8 | Mar 28 - 30
+### Week 8 | Mar 28--30
 
 #### Midway
 
@@ -172,7 +170,7 @@ title: Schedule
 
 ### | SPECIAL EVENT: BRIEF RETURN TO ANALYSIS |
 
-### Week 9 | Apr 4 - 6
+### Week 9 | Apr 4--6
 
 #### The Signatures of Writing
 
@@ -185,7 +183,7 @@ title: Schedule
 - Introduction to Stylo
 
 
-### Week 10 | Apr 11 - 13
+### Week 10 | Apr 11--13
 
 #### Stochastic Parrots
 
@@ -200,14 +198,14 @@ title: Schedule
 - Text generation exercise using GPT 4 (if not out yet, we'll use GPT3)
 
 
-### Week 11 | Apr 18 - 20
+### Week 11 | Apr 18--20
 
 #### Reconstitute the World
 
 ##### Seminar 
 
 **read**
-- A Selection of Volvelles by Raymond Lull
+- A selection of volvelles by Ramon Llull
 - Josephs, Kelly. "Versions of X/Self: Kamau Brathwaite's Caribbean Discourse." *Anthurium: A Caribbean Studies Journal*. 1:1 (December 2003) 
 - Parham, Marisa. "[.break .dance.](http://archipelagosjournal.org/issue03/parham/parham.html#about)" *archipelagos journal*, no. 3 (July 2019) 
 - Nowviskie, Bethany. “[Reconstitute the World](https://nowviskie.org/2018/reconstitute-the-world/).” *Bethany Nowviskie*, 12 June 2018.
@@ -220,7 +218,7 @@ title: Schedule
 - Image generation exercise using whatever AI consumer-grade tool is available in April.
 
 
-### Week 12 | Apr 25 - 27
+### Week 12 | Apr 25--27
 
 #### Exeunt to the World
 
