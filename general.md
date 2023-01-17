@@ -7,13 +7,13 @@ title: General
 
 Yale University   
 Introduction to Digital Humanities II 
-Algorithmic Approaches to Culture
+Computational Approaches to Culture
    
 Spring 2023  
-SPAN xxx 
+SPAN 846 
    
-Humanities Quadrangle xxx   
-Wednesdays, 1:30PM--3:30PM
+William L. Harkness Hall 002   
+Wednesdays, 1:30PM--3:20PM
 
 
 ### Instructor
@@ -28,7 +28,7 @@ e-mail: alex.gil@yale.edu
 
 ### Course Format
 
-This course will take two distinct forms: Mondays will consist of a seminar preceded by a brief lecture; and, Wednesdays we will have a digital studio where you will receive tutorials and work in teams to build and learn. In addition, students will be asked to participate in asynchronous community combined with online annotation exercises using [hypothes.is](https://web.hypothes.is/). Our choice of communication app will depend on the majority's preferences and/or special needs.
+This course will take two distinct forms: a seminar, where we will read and explore together, and a digital studio, where you will receive tutorials and work in teams to practice and learn. In addition, you will be asked to participate in asynchronous community on our Slack channel. 
 
 ### Requisites
 
@@ -36,12 +36,12 @@ An interest in questions of art, history, law, culture, philology and philosophy
 
 ### Course Materials
 
-All readings in this course will be provided *free to you*. Many articles and book chapters will be available for participants in the class on our shared drive following fair use guidelines. Other articles, and even books listed on the schedule will be available on the web open access. You fill find the appropriate links for all course materials in [the course schedule](/schedule.html).
+All readings in this course will be provided *free to you*. With a few exceptions, you fill find the appropriate links for all course materials in [the course schedule](/schedule.html).
 
 ### Assessment and Grading
 
 - 25% Class & Online Participation
-- 25% Midterm Quizz (Before Spring Break)
+- 25% Midterm Exam (Before Spring Break)
 - 25% Paired Project
 - 25% Final Conference Presentation
 
@@ -50,8 +50,6 @@ To learn more, please visit the [assignments page]({{"/assignments.html" | relat
 ### Fundamentals of Computing 
 
 Even though there are no technical requirements prior to you joining the class, you will be expected to play with new tools and learn new concrete technical skills throughout the semester. Even though you will be exposed to several "user friendly" tools and genres of Digital Humanities, the accent will be placed on symbolic computation. This will involve a completely different way of understanding and using your computer for many of you. The course is designed to guide you through these beginner steps in a way that hopefully minimizes the sense of alienation you may feel. These "fundamentals" serve as the basis for most artisanal practices in the Digital Humanities and beyond. In this sense, the course also serves as a friendly introduction to computation for Humanities majors or graduate students. You will not be expected to be a full-time programmer at the end of the course, or even "learn how to code," not even close, but you will be expected to understand many related concepts, and even do a thing or two using symbols instead of clicks. For example, you will learn how to read tutorials, solve problems, re-use the code of others, and if we work hard it together, even write some simple scripts---humble fragments of working code.
-
-In addition to computing, you will also be introduced to some basics of Design and Project Management throughout the course. Design, because it shows we care about our audiences and our imagination grows in unexpected byways therein, and Project Management because projects need to be properly scoped and organized in order to become a reality in time without breaking our backs or bruising our bonds to one another.
 
 
 ### Modalities of Engagement

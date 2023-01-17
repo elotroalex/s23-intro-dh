@@ -94,9 +94,9 @@ title: Schedule
 
 ##### Studio 
 
-- GEPHI
+- How to find the right tool for the job
 
-### | METAMORPHOSIS |
+### | POESIS |
 
 ### Week 5 | Feb 21 - 23
 
@@ -134,7 +134,7 @@ title: Schedule
 
 ##### Studio 
 
-- A second look at Transkribus
+- Re-introducing colored pencils
 
 ### Week 7 | Mar 7 - 9
 
@@ -147,9 +147,7 @@ title: Schedule
 - Johnson, Jessica Marie. “Xroads Praxis: Black Diasporic Technologies for Remaking the New World.” *archipelagos journal*, no. 3 (July 2019). https://doi.org/10.7916/archipelagos-4fjd-k774.
 
 
-##### Studio 
-
-- Re-introducing colored pencils
+##### Midterm Exam 
 
 ---
 
@@ -162,11 +160,12 @@ title: Schedule
 
 #### Midway
 
-##### Midterm Presentations
+##### Review the results from the Midterm Exam
 
 ##### Breathe and chat
 
-### | SPECIAL EVENT |
+
+### | SPECIAL EVENT: BRIEF RETURN TO ANALYSIS |
 
 ### Week 9 | Apr 4 - 6
 
@@ -180,8 +179,6 @@ title: Schedule
 
 - Introduction to Stylo
 
-
-### | POESIS |
 
 ### Week 10 | Apr 11 - 13
 
@@ -206,8 +203,8 @@ title: Schedule
 
 **read**
 - A Selection of Volvelles by Raymond Lull
-- Josephs, Kelly. "Versions of X/Self: Kamau Brathwaite's Caribbean
-Discourse." *Anthurium: A Caribbean Studies Journal*. 1:1 (December 2003)  
+- Josephs, Kelly. "Versions of X/Self: Kamau Brathwaite's Caribbean Discourse." *Anthurium: A Caribbean Studies Journal*. 1:1 (December 2003) 
+- Parham, Marisa. "[.break .dance.](http://archipelagosjournal.org/issue03/parham/parham.html#about)" *archipelagos journal*, no. 3 (July 2019) 
 - Nowviskie, Bethany. “[Reconstitute the World](https://nowviskie.org/2018/reconstitute-the-world/).” *Bethany Nowviskie*, 12 June 2018.
 
 
