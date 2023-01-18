@@ -20,8 +20,7 @@ title: Schedule
 **To read**
 - Miles, Josephine. *Poetry and Change: Donne, Milton, Wordsworth, and the Equilibrium of the Present*. University of California Press, 1974. (Introduction. Chapter 1–3) [PR502 M56]
 - Heffernan, Rachel Sagner Buurma and Laura. “[Search and Replace: Josephine Miles and the Origins of Distant Reading](https://modernismmodernity.org/forums/posts/search-and-replace).” *Modernism/Modernity*, Apr. 2018. modernismmodernity.org.
-- Schreibman, Susan, et al. *A Companion to Digital Humanities*. Wiley, 2004. [Chapter on the history of humanities computing]
-
+- Hockey, Susan. "[The History of Humanities Computing](https://companions.digitalhumanities.org/DH/?chapter=content/9781405103213_chapter_1.html)." *A Companion to Digital Humanities*. Schreibman, Susan, et al., eds.  Wiley, 2004. 
 
 
 ##### Studio
