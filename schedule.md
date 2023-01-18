@@ -33,19 +33,23 @@ title: Schedule
 
 ### Week 2 | Jan 31--Feb 2
 
-#### Where the Words Go 
+#### Where The Words Have Been 
 
 ##### Seminar 
 
+**To do**
+- Working in pairs, pick a contemporary article of thematic interest to both of you engaging with text or corpus analysis from [*Digital Humanities Quarterly*](http://www.digitalhumanities.org/dhq/) or the "[*Journal of Cultural Analytics*](https://culturalanalytics.org/)". Read it online. As you read it, highlight the concepts you don't understand in the article using [hypothes.is](https://via.hypothes.is/). If you see a concept that you think you can explain to your partner, write a comment, start a dialogue.
+
 **To read**
-- Sharma, Rama Nath, and Pāṇini. *The Aṣṭādhyāyī of Pāṇini*. Munshiram Manoharlal Publishers, 1987. [Short selections]
-- Saussure, Ferdinand. *Course in General Linguistics*. [Short selections]
+- Sharma, Rama Nath, and Pāṇini. *The Aṣṭādhyāyī of Pāṇini*. Munshiram Manoharlal Publishers, 1987. [Selections]
+- Saussure, Ferdinand. *Course in General Linguistics*, 1913. [Selections]
+- Chomsky, Noam. *Syntactic Structures*. De Gruyter Mouton, 1957, Martino Publ, 2015. [Selections]
+
 
 **To watch**
 - Muralidharan, Aditi. [WordSeer Features](https://www.youtube.com/watch?v=fMyTkCsZcLU). *YouTube*.
 
-**To do**
-- Working in pairs, pick a contemporary article of thematic interest to both of you engaging with text or corpus analysis from [*Digital Humanities Quarterly*](http://www.digitalhumanities.org/dhq/) or the "[*Journal of Cultural Analytics*](https://culturalanalytics.org/)". Read it online. As you read it, highlight the concepts you don't understand in the article using [hypothes.is](https://via.hypothes.is/). If you see a concept that you think you can explain to your partner, write a comment, start a dialogue.
+
 
 ##### Studio
 
@@ -64,7 +68,7 @@ title: Schedule
 ##### Seminar
 
 **To read**
-- *Computers for the Humanities? A Record of the Conference Sponsored by Yale University on a Grant from IBM*, January 22-23, 1965 (Yale Libraries call number: Available as Non-Circ at the Franke Family Digital Humanities Lab (QA76 C644 1965). Good excuse to go say hi, learn more about the venue)
+- *Computers for the Humanities? A Record of the Conference Sponsored by Yale University on a Grant from IBM*, January 22-23, 1965. [Selections] (Yale Libraries call number: Available as Non-Circ at the Franke Family Digital Humanities Lab (QA76 C644 1965). Good excuse to go say hi, learn more about the venue)
 - Da, Nan Z. “[The Computational Case against Computational Literary Studies](https://doi.org/10.1086/702594).” *Critical Inquiry*, vol. 45, no. 3, Mar. 2019, pp. 601–39.
 - Underwood, Ted. "Introduction." *Distant Horizons: Digital Evidence and Literary Change*. University of Chicago Press, 2019.
 - [Optional] Read the dialogue and responses to Da in "[Computational Literary Studies: A Critical Inquiry Online Forum](https://critinq.wordpress.com/2019/03/31/computational-literary-studies-a-critical-inquiry-online-forum/)." *Critical Inquiry: In The Moment* (2019)
@@ -114,6 +118,7 @@ title: Schedule
 - Turing, Alan M. “[Computing Machinery and Intelligence](https://doi.org/10.1093/mind/LIX.236.433).” *Mind*, no. 59, 1950, pp. 433–60.
 - Tenen, Dennis. “[The Emergence of American Formalism](https://academiccommons.columbia.edu/doi/10.7916/d8-8spe-nn29).” *Modern Philology* 117, no. 2 (November 2019): 257–283.
 - Hayles, N. Katherine. *Writing Machines*. MIT Press, 2002. [Selections]
+- Queneau, Raymond. *Cent mille milliards de poèmes*. [Selections]
 
 **To explore**
 - [AI Dungeon](https://play.aidungeon.io/main/home)
@@ -200,6 +205,7 @@ title: Schedule
 
 ##### Seminar 
 
+- A selection of volvelles by Ramon Llull
 - Bender, Emily M., et al. “On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜.” *Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency, ACM*. 2021, pp. 610–23. DOI.org (Crossref), https://doi.org/10.1145/3442188.3445922.
 - "On the dangers of stochastic parrots: Can language models be too big?" [*YouTube*](https://www.youtube.com/watch?v=N5c2X8vhfBE)
 - Tasovac, and Natalia Ermolaev, eds. [“Parrots](https://startwords.cdh.princeton.edu/).” *Startwords* 3 (2022). (Read the essays by del Rio Riande, Klein and Underwood)
@@ -218,14 +224,15 @@ title: Schedule
 ##### Seminar 
 
 **To read**
-- A selection of volvelles by Ramon Llull
+
 - Josephs, Kelly. "Versions of X/Self: Kamau Brathwaite's Caribbean Discourse." *Anthurium: A Caribbean Studies Journal*. 1:1 (December 2003) 
 - Parham, Marisa. "[.break .dance.](http://archipelagosjournal.org/issue03/parham/parham.html#about)" *archipelagos journal*, no. 3 (July 2019) 
 - Nowviskie, Bethany. “[Reconstitute the World](https://nowviskie.org/2018/reconstitute-the-world/).” *Bethany Nowviskie*, 12 June 2018.
 
 
-**listen**
+**To listen**
 - Sun Ra [Selections]
+- Puerto Rican Bomba [Selections]
 
 ##### Studio
 

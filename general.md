@@ -40,10 +40,13 @@ All readings in this course will be provided *free to you*. With a few exception
 
 ### Assessment and Grading
 
-- 10% Paper Annotation Exercise
-- 30% Class Participation
-- 30% Midterm Exam 
-- 30% Final Paper
+- 20% Class Engagement
+- 20% Pair Presentations
+- 20% Breaking Down a Text or Corpus Analysis Paper
+- 20% Midterm Exam 
+- 20% (Editing the) Final Paper
+
+- +20% Bonus Round
 
 To learn more, please visit the [assignments page]({{"/assignments.html" | relative_url}}).
 
