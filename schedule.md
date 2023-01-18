@@ -20,7 +20,9 @@ title: Schedule
 **To read**
 - Miles, Josephine. *Poetry and Change: Donne, Milton, Wordsworth, and the Equilibrium of the Present*. University of California Press, 1974. (Introduction. Chapter 1–3) [PR502 M56]
 - Heffernan, Rachel Sagner Buurma and Laura. “[Search and Replace: Josephine Miles and the Origins of Distant Reading](https://modernismmodernity.org/forums/posts/search-and-replace).” *Modernism/Modernity*, Apr. 2018. modernismmodernity.org.
-- Hockey, Susan. "[The History of Humanities Computing](https://companions.digitalhumanities.org/DH/?chapter=content/9781405103213_chapter_1.html)." *A Companion to Digital Humanities*. Schreibman, Susan, et al., eds.  Wiley, 2004. 
+- Hockey, Susan. "[The History of Humanities Computing](https://companions.digitalhumanities.org/DH/?chapter=content/9781405103213_chapter_1.html)." *A Companion to Digital Humanities*. Schreibman, Susan, et al., eds.  Wiley, 2004.
+- Crimble, Adam. "[The Origin Myths of Computing in Historical Research](http://ebookcentral.proquest.com/lib/yale-ebooks/detail.action?docID=6532324)." *Technology and the Historian: Transformations in the Digital Age.* University of Illinois Press, 2021.
+
 
 
 ##### Studio
@@ -32,7 +34,7 @@ title: Schedule
 
 ### Week 2 | Jan 31--Feb 2
 
-#### Where The Words Have Been 
+#### Where Words Go
 
 ##### Seminar 
 
@@ -42,7 +44,8 @@ title: Schedule
 **To read**
 - Sharma, Rama Nath, and Pāṇini. *The Aṣṭādhyāyī of Pāṇini*. Munshiram Manoharlal Publishers, 1987. [Selections]
 - Saussure, Ferdinand. *Course in General Linguistics*, 1913. [Selections]
-- Chomsky, Noam. *Syntactic Structures*. De Gruyter Mouton, 1957, Martino Publ, 2015. [Selections]
+- Pollock, Sheldon. "Introduction." *World Philology*. Havard UP, 2015.
+- [Optional] Chomsky, Noam. *Syntactic Structures*. De Gruyter Mouton, 1957, Martino Publ, 2015. [Selections]
 
 
 **To watch**
