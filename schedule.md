@@ -9,20 +9,20 @@ title: Schedule
 
 <br>
 
-### | ANALYSIS |
+<!--  -->
 
 ### Week 1 | Jan 24--26
 
-#### The Long Arc of Counting Words
+#### The Shorter Arc of Computing Words
 
 ##### Seminar
 
 **To read**
-- Miles, Josephine. *Poetry and Change: Donne, Milton, Wordsworth, and the Equilibrium of the Present*. University of California Press, 1974. (Introduction. Chapter 1–3) [PR502 M56]
-- Heffernan, Rachel Sagner Buurma and Laura. “[Search and Replace: Josephine Miles and the Origins of Distant Reading](https://modernismmodernity.org/forums/posts/search-and-replace).” *Modernism/Modernity*, Apr. 2018. modernismmodernity.org.
+
+- Heffernan, Laura and Rachel Sagner Buurma. “[Search and Replace: Josephine Miles and the Origins of Distant Reading](https://modernismmodernity.org/forums/posts/search-and-replace).” *Modernism/Modernity*, Apr. 2018. modernismmodernity.org.
 - Hockey, Susan. "[The History of Humanities Computing](https://companions.digitalhumanities.org/DH/?chapter=content/9781405103213_chapter_1.html)." *A Companion to Digital Humanities*. Schreibman, Susan, et al., eds.  Wiley, 2004.
 - Crimble, Adam. "[The Origin Myths of Computing in Historical Research](http://ebookcentral.proquest.com/lib/yale-ebooks/detail.action?docID=6532324)." *Technology and the Historian: Transformations in the Digital Age.* University of Illinois Press, 2021.
-
+- Terras, Melissa, and Julianne Nyhan. “[Father Busa’s Female Punch Card Operatives](https://dhdebates.gc.cuny.edu/read/untitled/section/1e57217b-f262-4f25-806b-4fcf1548beb5).” Debates in the Digital Humanities, 2016.
 
 
 ##### Studio
@@ -31,27 +31,54 @@ title: Schedule
 
 - Let's count words then!
 
+<!--  -->
+
 
 ### Week 2 | Jan 31--Feb 2
 
-#### Where Words Go
+#### The Longer Arc
 
 ##### Seminar 
+
+**To read**
+
+- Turing, Alan M. “[Computing Machinery and Intelligence](https://doi.org/10.1093/mind/LIX.236.433).” *Mind*, no. 59, 1950, pp. 433–60.
+- Tenen, Dennis. “[The Emergence of American Formalism](https://academiccommons.columbia.edu/doi/10.7916/d8-8spe-nn29).” *Modern Philology* 117, no. 2 (November 2019): 257–283.
+- Hayles, N. Katherine. (Chapters 1–4). *[Writing Machines](https://monoskop.org/images/b/bf/Hayles_N_Katherine_Writing_Machines.pdf)*. MIT Press, 2002.
+- Readings on Pāṇini [TBA]
+
+**To skim**
+- Getty Museum. "[Decoding the Medieval Volvelle](http://blogs.getty.edu/iris/decoding-the-medieval-volvelle/)."
+
+**To watch**
+- IET. "[The Story of Ada Lovelace: The World's First Computer Programmer](https://www.youtube.com/watch?v=J7ITqnEmf-g)." *YouTube*.
+- Computer History Museum. "https://www.youtube.com/watch?v=XSkGY6LchJs." *YouTube*.
+
+**To play**
+- [AI Dungeon](https://play.aidungeon.io/main/home)
+
+##### Studio
+
+**Tutorial**
+
+- Let's build a simple word machine
+
+<!--  -->
+
+### Week 3 | Feb 7--9
+
+#### The Sense and Nonsense of Text
+
+##### Seminar
 
 **To do**
 - Working in pairs, pick a contemporary article of thematic interest to both of you engaging with text or corpus analysis from [*Digital Humanities Quarterly*](http://www.digitalhumanities.org/dhq/) or the "[*Journal of Cultural Analytics*](https://culturalanalytics.org/)". Read it online. As you read it, highlight the concepts you don't understand in the article using [hypothes.is](https://via.hypothes.is/). If you see a concept that you think you can explain to your partner, write a comment, start a dialogue.
 
 **To read**
-- Sharma, Rama Nath, and Pāṇini. *The Aṣṭādhyāyī of Pāṇini*. Munshiram Manoharlal Publishers, 1987. [Selections]
-- Saussure, Ferdinand. *Course in General Linguistics*, 1913. [Selections]
 - Pollock, Sheldon. "Introduction." *World Philology*. Havard UP, 2015.
-- [Optional] Chomsky, Noam. *Syntactic Structures*. De Gruyter Mouton, 1957, Martino Publ, 2015. [Selections]
-
 
 **To watch**
 - Muralidharan, Aditi. [WordSeer Features](https://www.youtube.com/watch?v=fMyTkCsZcLU). *YouTube*.
-
-
 
 ##### Studio
 
@@ -59,11 +86,12 @@ title: Schedule
 
 - How to read text analysis blogs and articles
 
-**To study**
+**In class case study**
 
 - McClure, David. "[The (Weird) Distributions of Function Words across Novels](https://litlab.stanford.edu/distributions-of-function-words/)." Stanford Literary Lab. Accessed 16 Jan. 2023
 
-### Week 3 | Feb 7--9
+
+### Week 4 | Feb 14--16
 
 #### The Agon of Cultural Analytics
 
@@ -86,7 +114,32 @@ title: Schedule
 - Algee-Hewitt, Mark, Katherine Bowers, Quinn Dombrowski, and Heather Froehlich. "[Data Sitters Club #10: Heather Likes Principal Component Analysis](https://datasittersclub.github.io/site/dsc10.html)." (July 20, 2021)
 
 
-### Week 4 | Feb 14--16
+
+### Week 5 | Feb 21--23
+
+#### The Back and Forth Between Pictura and Poesis, oh, and Sound.
+
+##### Seminar 
+
+**To read**
+
+- Horace. *Ars Poetica*. [Selections]
+- Arnold, Taylor, and Lauren Tilton. “[Distant Viewing: Analyzing Large Visual Corpora](https://doi.org/10.1093/llc/fqz013).” *Digital Scholarship in the Humanities*, vol. 34, no. Supplement_1, Dec. 2019, pp. i3–16.
+- Kaufman, Micki. Selections from "[Quantifying Kissinger](https://blog.quantifyingkissinger.com/all-posts/)." 
+- Xu, Weijia, et al. “[A Study of Spoken Audio Processing Using Machine Learning for Libraries, Archives and Museums (LAM)](https://doi.org/10.1109/BigData50022.2020.9378438).” *2020 IEEE International Conference on Big Data (Big Data)*, 2020, pp. 1939–48.
+
+**To explore**
+- Arnold, Taylor, N. Ayers, J. Madron, R. Nelson, Lauren Tilton, Laura Wexler, et al. "[Photogrammar](https://photogrammar.org/maps)"
+- Sá Pereira, Moacir P. de. "[Mapping Fabula and Sjužet in 'Wandering Rocks'](https://muziejus.github.io/wandering-rocks/)."
+
+##### Studio
+
+**Tutorial**
+
+- Re-introducing colored pencils
+
+
+### Week 6 | Feb 28--March 2
 
 #### The Social Life of Everything, Everyone and Everywhen
 
@@ -107,54 +160,6 @@ title: Schedule
 
 - How to find the right tool for the job
 
-### | POESIS |
-
-### Week 5 | Feb 21--23
-
-#### The Electric Loom
-
-##### Seminar 
-
-**To read**
-- Lovelace, Ada. "Notes." [Selections]
-- Turing, Alan M. “[Computing Machinery and Intelligence](https://doi.org/10.1093/mind/LIX.236.433).” *Mind*, no. 59, 1950, pp. 433–60.
-- Tenen, Dennis. “[The Emergence of American Formalism](https://academiccommons.columbia.edu/doi/10.7916/d8-8spe-nn29).” *Modern Philology* 117, no. 2 (November 2019): 257–283.
-- Hayles, N. Katherine. *Writing Machines*. MIT Press, 2002. [Selections]
-- Queneau, Raymond. *Cent mille milliards de poèmes*. [Selections]
-
-**To explore**
-- [AI Dungeon](https://play.aidungeon.io/main/home)
-
-##### Studio
-
-**Tutorial**
-
-- Let's build a simple word machine
-
-
-### Week 6 | Feb 28--March 2
-
-#### The Back and Forth Between Pictura and Poesis, oh, and Sound.
-
-##### Seminar 
-
-**To read**
-
-- Horace. *Ars Poetica*. [Selections]
-- Arnold, Taylor, and Lauren Tilton. “[Distant Viewing: Analyzing Large Visual Corpora](https://doi.org/10.1093/llc/fqz013).” *Digital Scholarship in the Humanities*, vol. 34, no. Supplement_1, Dec. 2019, pp. i3–16.
-- Kaufman, Micki. Selections from "[Quantifying Kissinger](https://blog.quantifyingkissinger.com/all-posts/)." 
-- Xu, Weijia, et al. “[A Study of Spoken Audio Processing Using Machine Learning for Libraries, Archives and Museums (LAM)](https://doi.org/10.1109/BigData50022.2020.9378438).” *2020 IEEE International Conference on Big Data (Big Data)*, 2020, pp. 1939–48.
-
-**To explore**
-- Arnold, Taylor, N. Ayers, J. Madron, R. Nelson, Lauren Tilton, Laura Wexler, et al. "[Photogrammar](https://photogrammar.org/maps)"
-- Sá Pereira, Moacir P. de. "[Mapping Fabula and Sjužet in 'Wandering Rocks'](https://muziejus.github.io/wandering-rocks/)."
-
-
-##### Studio
-
-**Tutorial**
-
-- Re-introducing colored pencils
 
 ### Week 7 | Mar 7--9
 
@@ -209,7 +214,6 @@ title: Schedule
 
 ##### Seminar 
 
-- A selection of volvelles by Ramon Llull
 - Bender, Emily M., et al. “On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜.” *Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency, ACM*. 2021, pp. 610–23. DOI.org (Crossref), https://doi.org/10.1145/3442188.3445922.
 - "On the dangers of stochastic parrots: Can language models be too big?" [*YouTube*](https://www.youtube.com/watch?v=N5c2X8vhfBE)
 - Tasovac, and Natalia Ermolaev, eds. [“Parrots](https://startwords.cdh.princeton.edu/).” *Startwords* 3 (2022). (Read the essays by del Rio Riande, Klein and Underwood)
