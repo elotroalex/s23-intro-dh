@@ -29,7 +29,7 @@ title: Schedule
 
 **Tutorial**
 
-- Let's count words then!
+- Let's count words!
 
 <!--  -->
 
