@@ -13,7 +13,7 @@ title: Schedule
 
 ### Week 1 | Jan 24--26
 
-#### The Shorter Arc of Computing Words
+#### The Short Arc of Computing Words
 
 ##### Seminar
 
@@ -23,6 +23,8 @@ title: Schedule
 - Hockey, Susan. "[The History of Humanities Computing](https://companions.digitalhumanities.org/DH/?chapter=content/9781405103213_chapter_1.html)." *A Companion to Digital Humanities*. Schreibman, Susan, et al., eds.  Wiley, 2004.
 - Crimble, Adam. "[The Origin Myths of Computing in Historical Research](http://ebookcentral.proquest.com/lib/yale-ebooks/detail.action?docID=6532324)." *Technology and the Historian: Transformations in the Digital Age.* University of Illinois Press, 2021.
 - Terras, Melissa, and Julianne Nyhan. “[Father Busa’s Female Punch Card Operatives](https://dhdebates.gc.cuny.edu/read/untitled/section/1e57217b-f262-4f25-806b-4fcf1548beb5).” Debates in the Digital Humanities, 2016.
+
+- [Optional] Kizhner, Inna, et al. "[The History and Context of the Digital Humanities in Russia](https://dhdebates.gc.cuny.edu/read/global-debates-in-the-digital-humanities/section/cd8c97cc-722b-4076-92a8-d4217912aad4#ch05)" and "[Debating and Developing Digital Humanities in China: New or Old?](https://dhdebates.gc.cuny.edu/read/global-debates-in-the-digital-humanities/section/2662518e-42ff-4026-9605-a1c27b4aed27#ch06) *Global Debates in the Digital Humanities*. Domenico Fiormonte, et al., eds. (2023)
 
 
 ##### Studio
@@ -36,7 +38,7 @@ title: Schedule
 
 ### Week 2 | Jan 31--Feb 2
 
-#### The Longer Arc
+#### The Electric Loom
 
 ##### Seminar 
 
@@ -52,7 +54,7 @@ title: Schedule
 
 **To watch**
 - IET. "[The Story of Ada Lovelace: The World's First Computer Programmer](https://www.youtube.com/watch?v=J7ITqnEmf-g)." *YouTube*.
-- Computer History Museum. "https://www.youtube.com/watch?v=XSkGY6LchJs." *YouTube*.
+- Computer History Museum. "[False Dawn: The Babbage Engine](https://www.youtube.com/watch?v=XSkGY6LchJs)." *YouTube*.
 
 **To play**
 - [AI Dungeon](https://play.aidungeon.io/main/home)
