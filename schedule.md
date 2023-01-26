@@ -47,7 +47,6 @@ title: Schedule
 - Turing, Alan M. “[Computing Machinery and Intelligence](https://doi.org/10.1093/mind/LIX.236.433).” *Mind*, no. 59, 1950, pp. 433–60.
 - Tenen, Dennis. “[The Emergence of American Formalism](https://academiccommons.columbia.edu/doi/10.7916/d8-8spe-nn29).” *Modern Philology* 117, no. 2 (November 2019): 257–283.
 - Hayles, N. Katherine. (Chapters 1–4). *[Writing Machines](https://monoskop.org/images/b/bf/Hayles_N_Katherine_Writing_Machines.pdf)*. MIT Press, 2002.
-- Readings on Pāṇini [TBA]
 
 **To skim**
 - Getty Museum. "[Decoding the Medieval Volvelle](http://blogs.getty.edu/iris/decoding-the-medieval-volvelle/)."
