@@ -102,11 +102,10 @@ title: Schedule
 ##### Seminar
 
 **To read**
-
-- _Computers for the Humanities? A Record of the Conference Sponsored by Yale University on a Grant from IBM_, January 22-23, 1965. [Selections] (Yale Libraries call number: Available as Non-Circ at the Franke Family Digital Humanities Lab (QA76 C644 1965). Good excuse to go say hi, learn more about the venue)
-- Da, Nan Z. “[The Computational Case against Computational Literary Studies](https://doi.org/10.1086/702594).” _Critical Inquiry_, vol. 45, no. 3, Mar. 2019, pp. 601–39.
-- Underwood, Ted. "Introduction." _Distant Horizons: Digital Evidence and Literary Change_. University of Chicago Press, 2019.
-- [Optional] Read the dialogue and responses to Da in "[Computational Literary Studies: A Critical Inquiry Online Forum](https://critinq.wordpress.com/2019/03/31/computational-literary-studies-a-critical-inquiry-online-forum/)." _Critical Inquiry: In The Moment_ (2019)
+- *Computers for the Humanities? A Record of the Conference Sponsored by Yale University on a Grant from IBM*, January 22-23, 1965. [Selections] (Yale Libraries call number: Available as Non-Circ at the Franke Family Digital Humanities Lab (QA76 C644 1965). Good excuse to go say hi, learn more about the venue)
+- Da, Nan Z. “[The Computational Case against Computational Literary Studies](https://doi.org/10.1086/702594).” *Critical Inquiry*, vol. 45, no. 3, Mar. 2019, pp. 601–39.
+- Underwood, Ted. "[Introduction](https://search.library.yale.edu/catalog/14581523?block=Books)." *Distant Horizons: Digital Evidence and Literary Change*. University of Chicago Press, 2019.
+- [Optional] Read the dialogue and responses to Da in "[Computational Literary Studies: A Critical Inquiry Online Forum](https://critinq.wordpress.com/2019/03/31/computational-literary-studies-a-critical-inquiry-online-forum/)." *Critical Inquiry: In The Moment* (2019)
 
 ##### Studio
 
