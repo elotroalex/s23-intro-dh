@@ -126,7 +126,6 @@ title: Schedule
 
 **To read**
 
-- Horace. _Ars Poetica_. [Selections]
 - Arnold, Taylor, and Lauren Tilton. “[Distant Viewing: Analyzing Large Visual Corpora](https://doi.org/10.1093/llc/fqz013).” _Digital Scholarship in the Humanities_, vol. 34, no. Supplement_1, Dec. 2019, pp. i3–16.
 - Kaufman, Micki. Selections from "[Quantifying Kissinger](https://blog.quantifyingkissinger.com/all-posts/)."
 - Xu, Weijia, et al. “[A Study of Spoken Audio Processing Using Machine Learning for Libraries, Archives and Museums (LAM)](https://doi.org/10.1109/BigData50022.2020.9378438).” _2020 IEEE International Conference on Big Data (Big Data)_, 2020, pp. 1939–48.
