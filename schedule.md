@@ -113,10 +113,7 @@ title: Schedule
 
 - How to read tutorials
 
-**To study**
 
-- Froehlich, Heather. "[Corpus Analysis with Antconc](http://programminghistorian.org/en/lessons/corpus-analysis-with-antconc)"
-- Algee-Hewitt, Mark, Katherine Bowers, Quinn Dombrowski, and Heather Froehlich. "[Data Sitters Club #10: Heather Likes Principal Component Analysis](https://datasittersclub.github.io/site/dsc10.html)." (July 20, 2021)
 
 ### Week 5 | Feb 21--23
 
@@ -150,7 +147,7 @@ title: Schedule
 **To read**
 
 - Porter, J.D. "[Pamphlet 17: Popularity/Prestige](https://litlab.stanford.edu/LiteraryLabPamphlet17.pdf)." _Stanford Literary Lab_. September 2018.
-- Ahnert, Ruth, et al. “[The Network Turn: Changing Perspectives in the Humanities](https://doi.org/10.1017/9781108866804.https://www.cambridge.org/core/elements/network-turn/CC38F2EA9F51A6D1AFCB7E005218BBE5).” _Elements in Publishing and Book Culture_, Dec. 2020. www.cambridge.org,
+- Ahnert, Ruth, et al. “[The Network Turn: Changing Perspectives in the Humanities](https://www.cambridge.org/core/elements/network-turn/CC38F2EA9F51A6D1AFCB7E005218BBE5#.” _Elements in Publishing and Book Culture_, Dec. 2020. www.cambridge.org,
 
 **To explore**
 
@@ -160,9 +157,12 @@ title: Schedule
 
 ##### Studio
 
-**Tutorial**
+**To study**
 
-- How to find the right tool for the job
+- Froehlich, Heather. "[Corpus Analysis with Antconc](http://programminghistorian.org/en/lessons/corpus-analysis-with-antconc)"
+- Algee-Hewitt, Mark, Katherine Bowers, Quinn Dombrowski, and Heather Froehlich. "[Data Sitters Club #10: Heather Likes Principal Component Analysis](https://datasittersclub.github.io/site/dsc10.html)." (July 20, 2021)
+
+
 
 ### Week 7 | Mar 7--9
 
