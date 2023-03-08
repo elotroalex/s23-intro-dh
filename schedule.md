@@ -147,7 +147,7 @@ title: Schedule
 **To read**
 
 - Porter, J.D. "[Pamphlet 17: Popularity/Prestige](https://litlab.stanford.edu/LiteraryLabPamphlet17.pdf)." _Stanford Literary Lab_. September 2018.
-- Ahnert, Ruth, et al. “[The Network Turn: Changing Perspectives in the Humanities](https://www.cambridge.org/core/elements/network-turn/CC38F2EA9F51A6D1AFCB7E005218BBE5#.” _Elements in Publishing and Book Culture_, Dec. 2020. www.cambridge.org,
+- Ahnert, Ruth, et al. “[The Network Turn: Changing Perspectives in the Humanities](https://www.cambridge.org/core/elements/network-turn/CC38F2EA9F51A6D1AFCB7E005218BBE5#).” _Elements in Publishing and Book Culture_, Dec. 2020. www.cambridge.org,
 
 **To explore**
 
@@ -170,9 +170,9 @@ title: Schedule
 
 ##### Seminar
 
-- Klein, Lauren F. “The Image of Absence: Archival Silence, Data Visualization, and James Hemings.” _American Literature_, vol. 85, no. 4, Dec. 2013, pp. 661–88. Silverchair, https://doi.org/10.1215/00029831-2367310.
-- Hartman, Saidiya. “Venus in Two Acts.” _Small Axe_, no. 26 (June 2008).
-- Johnson, Jessica Marie. “Xroads Praxis: Black Diasporic Technologies for Remaking the New World.” _archipelagos journal_, no. 3 (July 2019). https://doi.org/10.7916/archipelagos-4fjd-k774.
+- Klein, Lauren F. “[The Image of Absence: Archival Silence, Data Visualization, and James Hemings](https://doi.org/10.1215/00029831-2367310).” _American Literature_, vol. 85, no. 4, Dec. 2013, pp. 661–88. Silverchair.
+- Hartman, Saidiya. “[Venus in Two Acts](https://muse.jhu.edu/article/241115).” _Small Axe_, no. 26 (June 2008).
+- Johnson, Jessica Marie. “[Xroads Praxis: Black Diasporic Technologies for Remaking the New World](https://doi.org/10.7916/archipelagos-4fjd-k774).” _archipelagos journal_, no. 3 (July 2019).
 
 **To explore**
 
@@ -180,7 +180,7 @@ title: Schedule
 
 **To do**
 
-- Midterm Exam
+- [Midterm Exercise](/s23-intro-dh/keywords.html)
 
 <br>
 

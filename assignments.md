@@ -15,9 +15,9 @@ Working in pairs, you will lead discussion once during the semester. To prepare 
 
 On the fourth week of class you will annotate one article from a digital humanities journal working in pairs. Your job is to highlight concepts and words you don't understand, and to try to help each other fill those gaps.
 
-### Midterm Exam
+### Midterm Exercise
 
-Before Spring break I will pass a list of pain-point concepts and keywords that surfaced from the annotation exercise and in class discussions. Right before the break, we will have a midterm exam to see how well we're handling the onslaught of new vocabulary. 
+Before Spring break we will look at a [dozen of pain-point keywords](/s23-intro-dh/keywords.html) that surfaced from the annotation exercise and in class discussions. The exercise is take-home, and we will discuss the results in class after Spring Break.
 
 
 ### (Editing the) Final Paper
